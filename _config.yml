@@ -1,5 +1,5 @@
 url: "https://kraftychocolates.github.io"
-baseurl: /
+baseurl: "/"
 
 # Site settings
 title: "KraftyChocolates - Handcrafted, Delicious Chocolates nor in India:
@@ -40,6 +40,7 @@ social:
 address:
   - line: "Baishnavghata-Patuli"
   - line: Kolkata, West Bengal, India
+  - line: +91-8981853624
   
 # Build settings
 markdown: kramdown
