@@ -1,9 +1,9 @@
-url: "https://kraftychocolates.github.io"
+url: https://kraftychocolates.github.io
 baseurl: "/"
 
 # Site settings
 title: "KraftyChocolates - Handcrafted, Delicious Chocolates nor in India:
-email: orders@kraftychocolates.in
+email: "orders@kraftychocolates.in"
 description: "Handcrafted premium gourmet chocolates with rich cocoa taste and exotic flavour options available. We deliver your chocolates at your doorstep. Indulge Yourself!"
 
 
@@ -11,7 +11,7 @@ description: "Handcrafted premium gourmet chocolates with rich cocoa taste and e
 people:
 - name: Pradyumna Chatterjee
   pic: 1
-  position: Chocolateer & Geek
+  position: "Chocolateer & Tech Guy"
   social:
     - title: facebook
       url: https://www.facebook.com/pradyumnacster
@@ -20,7 +20,7 @@ people:
 
 - name: Souvik Ghosh
   pic: 2
-  position: Lead Operations Manager & In-House Blogger
+  position: "Lead Operations Manager & In-House Blogger"
   social:
     - title: facebook
       url: https://www.facebook.com/pradyumnacster
@@ -39,8 +39,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: "Baishnavghata-Patuli"
-  - line: Kolkata, West Bengal, India
-  - line: +91-8981853624
+  - line: "Kolkata, West Bengal, India"
+  - line: "+91-8981853624
   
 # Build settings
 markdown: kramdown
