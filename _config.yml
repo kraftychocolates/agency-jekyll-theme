@@ -1,65 +1,46 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://kraftychocolates.github.io
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: "KraftyChocolates - Handcrafted, Delicious Chocolates nor in India:
+email: orders@kraftychocolates.in
+description: "Premium handcrafted chocolates with rich cocoa taste and exotic flavour options available. We deliver your chocolates at your doorstep. Indulge Yourself!"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Pradyumna Chatterjee
   pic: 1
-  position: Lead Designer
+  position: Chocolateer & Geek
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/pradyumnacster
+    - title: instagram
+      url: https://www.instagram.com/pradyumnacster
 
-- name: Larry Parker
+- name: Souvik Ghosh
   pic: 2
-  position: Lead Marketer
+  position: Lead Operations Manager & In-House Blogger
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/pradyumnacster
+    - title: instagram
+      url: https://www.instagram.com/pradyumnacster
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/kraftychoco
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/kraftychocolates
+  - title: instagram
+    url:  https://www.instagram.com/kraftychocolates
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
+  - line: Baishnavghata-Patuli
+  - line: Kolkata, West Bengal, India
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
