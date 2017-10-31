@@ -38,7 +38,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Baishnavghata-Patuli
+  - line: "Baishnavghata-Patuli"
   - line: Kolkata, West Bengal, India
   
 # Build settings
