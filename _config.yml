@@ -3,8 +3,9 @@ baseurl: "/"
 
 # Site settings
 title: KraftyChocolates
+tagline: "Handcrafted and Delicious!"
 email: "orders@kraftychocolates.in"
-description: "Handcrafted premium gourmet chocolates with rich cocoa taste and exotic flavour options available. We deliver your chocolates at your doorstep. Indulge Yourself!"
+description: "Handcrafted & Premium Gourmet Chocolates with rich cocoa taste and exotic flavour options available. We deliver your chocolates at your doorstep. Indulge Yourself!"
 
 
 # Team names, titles and social links
