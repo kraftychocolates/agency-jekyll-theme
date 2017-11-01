@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Cashew aur Kismis Ka Swad
+subtitle: Premium Milk Chocolates with Cashew & Raisin
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -8,8 +8,8 @@ img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Milk Chocolates
+price: Rs 25/pc
+description: Premium Milk Chocolates with Cashew & Raisin that leave a smooth after taste and melts in your mouth
 
 ---
