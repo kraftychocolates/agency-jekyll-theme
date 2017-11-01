@@ -7,7 +7,7 @@ function show_callus_modal() {
   return false;
 }
 
-function callus_switcher = function() {
+var callus_switcher = function() {
   if($(window).width() <=768) { 
     $('.callus').addClass("callus-popup");
     $(".callus-popup").on("click",show_callus_modal);
