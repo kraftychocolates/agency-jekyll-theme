@@ -18,7 +18,7 @@ function callus_switcher = function() {
       $('.callus').removeClass("callus-popup");
     }
   }
-}
+};
 
 $(document).ready(callus_switcher);
 $( window ).resize(callus_switcher);
