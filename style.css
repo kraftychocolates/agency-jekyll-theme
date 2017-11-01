@@ -1,7 +1,12 @@
 ---
 layout: style
 ---
-
 .logoimage {
   width: 50%;
+}
+
+@media(min-width:768px) {
+  .logoimage {
+    width: 20%;
+  }
 }
