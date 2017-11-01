@@ -11,7 +11,7 @@ description: "Handcrafted & Premium Gourmet Chocolates with rich cocoa taste and
 # Team names, titles and social links
 people:
 - name: Pradyumna Chatterjee
-  pic: 1
+  pic: prd2
   position: "Chocolateer & Tech Guy"
   social:
     - title: facebook
@@ -20,7 +20,7 @@ people:
       url: https://www.instagram.com/pradyumnacster
 
 - name: Souvik Ghosh
-  pic: 2
+  pic: svk2
   position: "Lead Operations Manager & In-House Blogger"
   social:
     - title: facebook
