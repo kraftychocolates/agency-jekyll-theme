@@ -1,6 +1,6 @@
 ---
-title: Almond Dark Chocolates
-subtitle: 
+title: Almond Chocolates
+subtitle: Nutty, Bittersweet, Dark
 layout: default
 modal-id: 1
 date: 2017-11-01
