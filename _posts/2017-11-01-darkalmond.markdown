@@ -1,13 +1,13 @@
 ---
-title: Almond ki Aasha
-subtitle: Bittersweet dark chocolates with Nutty Almond texture
+title: Almond Dark Chocolates
+subtitle: 
 layout: default
 modal-id: 1
 date: 2017-11-01
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
+img: product2.png
+thumbnail: product2-thumb.png
+alt: Bittersweet Shiny Almond Chocolates
+project-date: 
 addons: Almond
 category: Dark Moulded Chocolates
 price: Rs. 20/pc
